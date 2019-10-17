@@ -1,1 +1,1 @@
-# KNN-regression
+# KNN-reg
